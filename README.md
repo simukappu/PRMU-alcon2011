@@ -1,2 +1,2 @@
-prmu_alcon_2011
+PRMU algorithm contest 2011
 ===============
