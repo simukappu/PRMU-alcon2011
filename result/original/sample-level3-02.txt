@@ -1,0 +1,10 @@
+x	y	recog.
+199	408	EVEN
+502	207	EVEN
+140	116	EVEN
+
+detection score   : 3
+recognition score : 3
+------------------------
+total score       : 6
+

@@ -1,0 +1,10 @@
+x	y	recog.
+185	419	WIN
+500	212	LOSE
+174	127	WIN
+
+detection score   : 3
+recognition score : 3
+------------------------
+total score       : 6
+

@@ -1,0 +1,9 @@
+x	y	recog.
+193	282	WIN
+495	261	LOSE
+
+detection score   : 2
+recognition score : 2
+------------------------
+total score       : 4
+

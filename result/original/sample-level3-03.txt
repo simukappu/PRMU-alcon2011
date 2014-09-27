@@ -1,0 +1,11 @@
+x	y	recog.
+369	392	WIN
+221	387	LOSE
+395	111	WIN
+186	155	WIN
+
+detection score   : 2
+recognition score : 3
+------------------------
+total score       : 5
+

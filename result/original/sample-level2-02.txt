@@ -1,0 +1,11 @@
+x	y	recog.
+352	421	EVEN
+557	201	EVEN
+180	178	EVEN
+364	83	EVEN
+
+detection score   : 4
+recognition score : 4
+------------------------
+total score       : 8
+

@@ -1,0 +1,11 @@
+x	y	recog.
+358	401	LOSE
+547	200	LOSE
+176	176	WIN
+369	92	LOSE
+
+detection score   : 4
+recognition score : 4
+------------------------
+total score       : 8
+

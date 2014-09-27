@@ -1,0 +1,9 @@
+x	y	recog.
+116	267	EVEN
+524	237	EVEN
+
+detection score   : 1
+recognition score : 0
+------------------------
+total score       : 1
+
